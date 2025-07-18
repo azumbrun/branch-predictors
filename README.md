@@ -1,7 +1,7 @@
 
 # Branch Predictor Simulator
 
-!![UML](uml.png)
+![UML](uml.png)
 
 ## Overview
 
