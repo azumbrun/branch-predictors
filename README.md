@@ -1,6 +1,8 @@
 
 # Branch Predictor Simulator
 
+!![UML](uml.png)
+
 ## Overview
 
 High-performance C++ simulator modeling advanced CPU cache behaviors and branch prediction strategies. Built with modern C++11 features and object-oriented design, it supports multiple cache configurations (Direct-Mapped, Fully-Associative, Set-Associative) and replacement policies (True LRU, Pseudo-LRU, Prefetching).
